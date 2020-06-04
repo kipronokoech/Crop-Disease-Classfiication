@@ -40,15 +40,15 @@ ouput.
 
 <table style="width:100%">
   <tr>
-    <th><img src="output/N567QP.jpg" width=100></th>
-    <th><img src="output/QJE37W.jpg" width=100></th>
+    <th><img src="output/N567QP.jpg" width=300></th>
+    <th><img src="output/QJE37W.jpg" width=300></th>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <th><img src="output/QP94SG.JPG" width=100></th>
-    <th><img src="output/X1UJGJ.jpg" width=100></th>
+    <th><img src="output/QP94SG.JPG" width=300></th>
+    <th><img src="output/X1UJGJ.jpg" width=300></th>
   </tr>
 </table>
 
