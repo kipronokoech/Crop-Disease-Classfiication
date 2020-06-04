@@ -22,7 +22,7 @@ the image according to the type of wheat rust that
 Unfortunately, Zindi reserves the ownership of the data 
 and as such the data may not be published here.
 A work around, however, is to get the data from the challenge
-page [link](https://zindi.africa/competitions/iclr-workshop-challenge-1-cgiar-computer-vision-for-crop-disease)
+page [link](https://zindi.africa/competitions/iclr-workshop-challenge-1-cgiar-computer-vision-for-crop-disease/data)
 .
 
 ## Root Dir - Files and folders
@@ -38,7 +38,19 @@ ouput.
 
 ## Sample ouput
 
+<table style="width:100%">
+  <tr>
+    <th><img src="output/N567QP.jpg" width=400></th>
+    <th><img src="output/QJE37W.jpg" width=400></th>
+  </tr>
+</table>
 
+<table style="width:100%">
+  <tr>
+    <th><img src="output/QP94SG.JPG" width=400></th>
+    <th><img src="output/X1UJGJ.jpg" width=400></th>
+  </tr>
+</table>
 
 
 
