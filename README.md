@@ -9,7 +9,7 @@ learning algorithm to correctly classify if a
 plant (wheat) is healthy, has stem rust, or has 
 leaf rust.
 
-##Data
+## Data
 876 images to train the model on 
 and 610 images used to test it. Some images 
 may contain both stem and leaf rust, but there is 
